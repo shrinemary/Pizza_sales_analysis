@@ -41,7 +41,7 @@ This project explores **pizza sales data** to uncover key insights on revenue, s
 - **Power BI Report** (`PizzaSalesReport.pbix`) – Interactive dashboard.  
 - **Visuals** (`PizzaSalesReport.pdf`) – Screenshots from Power BI.  
 
-## 👩‍💻 Author  
+## 👩‍💻 Connect with me  
 **Shrine Mary Reji**  
 📧 [maryshrine18@gmail.com] | 🔗 [LinkedIn Profile](https://www.linkedin.com/in/shrinemary-analyst/)
 
