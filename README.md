@@ -43,8 +43,7 @@ This project explores **pizza sales data** to uncover key insights on revenue, s
 
 ## 👩‍💻 Author  
 **Shrine Mary Reji**  
-📧 [Your Email] | 🔗 [LinkedIn Profile]  
+📧 [maryshrine18@gmail.com] | 🔗 [LinkedIn Profile](https://www.linkedin.com/in/shrinemary-analyst/)
 
 ---
 
-Would you like me to generate `.sql` files for the queries from your report? 😊
